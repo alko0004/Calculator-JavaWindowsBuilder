@@ -242,19 +242,3 @@ public class Frame1 {
 }
 
 
-/* REFERENCE
-https://www.youtube.com/watch?v=r8Qiz9Bn1Ag&t=14s
-Channel: ProgrammingKnowledge
-*/
-
-
-/*
- * actionperformed need implements ActionListner
- * private class ButtonHandler implements ActionListener{
- * public void actionPerformed(ActionEvent e){
- * e.(shows what you can do);
- * }
- * }
- *  
- *  
- */
